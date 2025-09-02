@@ -81,8 +81,8 @@ void calcule_puissance(){
      } while(base <0 || exposant <0);
      int resultat=base;
      int i;
-     for(i = 0 ;i < exposant ;i++ ){
-             resultat*=resultat;
+     for(i = 1 ;i < exposant ;i++ ){
+             resultat*=base;
      }
      printf("la resultat est : % d" ,resultat);
      
