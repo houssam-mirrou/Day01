@@ -23,6 +23,8 @@ int main(int argc, char *argv[]) {
 	//int *copie;
 	//copie_tableaux(copie);
 	//Inversion_d_un_Tableau();
-	Rechercher_un_Element();
+	//Rechercher_un_Element();
+	//calculer_moyenne();
+	Fusion_de_Deux_Tableaux();
 	return 0;
 }
