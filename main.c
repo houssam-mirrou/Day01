@@ -14,6 +14,15 @@ int main(int argc, char *argv[]) {
 	//suite_Fibonacci();
 	//compteur_de_chiffres();
 	//Calcul_et_affichage_des_resultats();
-	Initialisation_et_Affichage();
+	//Saisie_et_Affichage_des_Elements();
+	//Somme_des_Elements();
+	//Trouver_le_Maximum();
+	//Trouver_le_Minimum();
+	//Multiplication_des_Elements();
+	//Tableau_en_Ordre_Croissant();
+	//int *copie;
+	//copie_tableaux(copie);
+	//Inversion_d_un_Tableau();
+	Rechercher_un_Element();
 	return 0;
 }
